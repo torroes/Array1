@@ -1,5 +1,5 @@
 /*
- Endre koden slik at tallene som legges inn i arrayen sktives ut i serial monitor
+ Endre koden slik at tallene som legges inn i arrayen skrives ut i serial monitor
  Legg til i koden slik at gjenomsnitts verdien skrives ut i serial monitor
   */
 
