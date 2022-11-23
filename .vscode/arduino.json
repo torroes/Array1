@@ -1,0 +1,6 @@
+{
+    "board": "arduino:megaavr:uno2018",
+    "configuration": "mode=on",
+    "port": "COM8",
+    "sketch": "Arrays1.ino"
+}

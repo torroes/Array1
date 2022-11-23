@@ -5,7 +5,7 @@
 
 
 int lengdeArray = 6;           
-int tall[lengdeArray];      
+int tall[6];      
           
 
 void setup() 
